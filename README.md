@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I now python, cpp, js, nodejs, html, css
+I know python, cpp, js, nodejs, html, css
+(qt and some other libs)

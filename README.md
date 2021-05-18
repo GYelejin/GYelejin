@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 I know python, cpp, js, nodejs, html, css
 (qt and some other libs)
+I know russian lang and english

@@ -7,8 +7,9 @@ Hi there, I'm <a href="https:/gyelejin.cf" target="_blank" rel="noreferrer">GYel
 
 ### Welocome to the club!
 
-I know python, cpp, js, nodejs, html, css
-(qt and some other libs)\n
-I know russian lang and english
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYelejin&theme=cobalt)](https://github.com/GYelejin)
 
+I know python, cpp, js, nodejs, html, css
+(qt and some other libs)
+I know russian lang and english
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYelejin&theme=cobalt)](https://github.com/GYelejin)

@@ -6,7 +6,7 @@ Hi there, I'm <a href="https:/gyelejin.cf" target="_blank" rel="noreferrer">GYel
 </p>
 </br>
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
+</br>
 [![GY's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYelejin&theme=cobalt)](https://github.com/GYelejin)
 
 I know python, cpp, js, nodejs, html, css

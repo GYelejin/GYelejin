@@ -23,4 +23,4 @@ I know python, cpp, js, nodejs, html, css
 (qt and some other libs)
 I know russian lang and english
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYelejin&theme=radical)](https://github.com/GYelejin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYelejin&theme=cobalt)](https://github.com/GYelejin)

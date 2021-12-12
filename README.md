@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 I know python, cpp, js, nodejs, html, css
 (qt and some other libs)
 I know russian lang and english
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/GYelejin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYelejin&theme=radical)](https://github.com/GYelejin)

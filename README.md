@@ -4,9 +4,11 @@ Hi there, I'm <a href="https:/gyelejin.cf" target="_blank" rel="noreferrer">GYel
 <p align="center">
 <img src="https://user-images.githubusercontent.com/83309486/145721861-c579b83a-c817-4669-a8bf-49fca66a9ddc.png" alt="my banner">
 </p>
-</br>
+
+
+
+
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-</br>
 [![GY's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYelejin&theme=cobalt)](https://github.com/GYelejin)
 
 I know python, cpp, js, nodejs, html, css

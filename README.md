@@ -8,8 +8,8 @@ Hi there, I'm <a href="https:/gyelejin.cf" target="_blank" rel="noreferrer">GYel
 
 ## 📈 GitHub Stats 
 
-[![GY's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYelejin&theme=nord&show_icons=true&border_radius=0&hide_border)](https://github.com/GYelejin)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYelejin&theme=nord&show_icons=true&border_radius=0&hide_border)](https://github.com/GYelejin)
+[![GY's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYelejin&theme=nord&show_icons=true&border_radius=0&hide_border=true)](https://github.com/GYelejin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYelejin&theme=nord&show_icons=true&border_radius=0&hide_border=true)](https://github.com/GYelejin)
 
 ## 💼 Technical Skills
 

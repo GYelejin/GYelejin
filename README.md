@@ -1,13 +1,16 @@
-<h3 align="center">
-Hi there, I'm <a href="https:/gyelejin.cf" target="_blank" rel="noreferrer">GYelejin</a> 👋
-</h3>
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/83309486/145721861-c579b83a-c817-4669-a8bf-49fca66a9ddc.png" alt="my banner">
 </p>
-### 
+<h3 align="center">
+Hi there, I'm <a href="https:/gyelejin.cf" target="_blank" rel="noreferrer">GYelejin</a> 👋
+</h3>
+
+## 📈 GitHub Stats 
 
 [![GY's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYelejin&theme=nord&show_icons=true&border_radius=0&hide_border)](https://github.com/GYelejin)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYelejin&theme=nord&show_icons=true&border_radius=0&hide_border)](https://github.com/GYelejin)
+
 ## 💼 Technical Skills
 
 ### Programming Languages

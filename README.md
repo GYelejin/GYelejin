@@ -4,10 +4,11 @@ Hi there, I'm <a href="https:/gyelejin.cf" target="_blank" rel="noreferrer">GYel
 <p align="center">
 <img src="https://user-images.githubusercontent.com/83309486/145721861-c579b83a-c817-4669-a8bf-49fca66a9ddc.png" alt="my banner">
 </p>
+### 
 
-[![GY's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYelejin&theme=dark&show_icons=true&border_radius=0&hide_border)](https://github.com/GYelejin)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYelejin&theme=dark&show_icons=true&border_radius=0&hide_border)](https://github.com/GYelejin)
-
+[![GY's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYelejin&theme=nord&show_icons=true&border_radius=0&hide_border)](https://github.com/GYelejin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYelejin&theme=nord&show_icons=true&border_radius=0&hide_border)](https://github.com/GYelejin)
+## 💼 Technical Skills
 
 ### Programming Languages
 
@@ -42,7 +43,7 @@ Hi there, I'm <a href="https:/gyelejin.cf" target="_blank" rel="noreferrer">GYel
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-### OS
+### 💻 OS
 
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -53,6 +54,7 @@ Hi there, I'm <a href="https:/gyelejin.cf" target="_blank" rel="noreferrer">GYel
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-### Write me
+### 🤝 Connect with me:
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gyelejin)
 

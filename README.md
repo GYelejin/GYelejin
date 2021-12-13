@@ -8,7 +8,7 @@ Hi there, I'm <a href="https:/gyelejin.cf" target="_blank" rel="noreferrer">GYel
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gyelejin)
 
 
-[![GY's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYelejin&theme=cobalt&show_icons=trueborder_radius=0)](https://github.com/GYelejin)
+[![GY's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYelejin&theme=dark&show_icons=true&border_radius=0&hide_border)](https://github.com/GYelejin)
 
 ### Programming Languages
 

@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/83309486/145721861-c579b83a-c817-4669-a8bf-49fca66a9ddc.png" alt="my banner">
 </p>
 <h3 align="center">
-Hi there, I'm <a href="https:/gyelejin.cf" target="_blank" rel="noreferrer">GYelejin</a> 👋
+Hi there, I'm <a href="https:/gyelejin.cf">GYelejin</a> 👋
 </h3>
 
 ## 📈 GitHub Stats 
